@@ -1,0 +1,120 @@
+* Những điều mà 1 blockchain developer có thể làm:
+    - Smart Contract
+    - Blockchain Websites
+    - Blockchain Mobile Apps
+    - Blockchain Backend
+    - Blockchain Nodes
+    - Blockchain Game
+
+* Kỹ năng cần có:
+    + Ngôn ngữ lập trình:
+        a, Core Blockchain
+            <> Languages
+                • C/C++
+                • Javacript
+                • Go
+                • Rust
+                • Python
+            <> Knowledge
+                • Math
+                • Basic about blockchain
+                    o HashFunction & signature
+                    o Cơ chế đồng thuận (PoW,PoS,DPoS)
+                    o Transactions & UTXO Model
+                    o Synchronization Process & pruning
+                    o Wallet & SPV
+                    o Forks,Fork Types
+                    O Fees
+                    o Lighining Networks ...
+                    o Cross-Chain Swap
+                    o Taproot, Graftroot, Mast ...
+
+        b, Smart Contract
+            * Solidity
+            * Viper
+            * FE
+            * Rust
+            * FrontEnd (HTML, CSS, JAVASCRIPT)
+            * React
+            * Nodejs         
+
+    + Frameworks nên biết:
+        • Npm/Node.js
+        • Truffle ...
+        • Metamask
+        • Web3.js
+        • Ethers.js
+        • React.js
+        • Exprress.js
+        • React Native/Expo
+        • Web3.py
+
+
+* Lộ trình khóa học 
+    <> Part 1: Kiến thức về Blockchain
+        • Transactions
+        • Blocks
+    
+    <> Part 2: Smart Contract
+        • Cách hoạt động của Smart Contract
+        • Accounts
+        • Transactions
+        • Gas
+        • Storage, Memory & Stack
+        • Set
+        • Message Call
+        • Logs
+        • Create
+        • Delegate Call / Call code & Libraries
+        • Deactive & Self-destruct
+    
+    <> Part 3: Cài Đặt Solidity Compiler
+
+    <> Part 4: Lập Trình Solidity
+        • Kiến trúc Solidity
+        • Kiến trúc một Contract
+        • Kiểu dữ liệu
+        • Unit & Biến Globally Availble
+        • Expression & Cấu trúc điều khiển
+        • Contracts
+        • Solidity Assemble
+        • Miscellaneous
+        • Kinh nghiệm thực tế & cách xử lí các lỗi khi dùng các version Solidity khác nhau   
+
+    <> Part 5: Contract Metadata
+
+    <> Part 6: Contract ABI Specification
+        • Kiến trúc ABI
+        • Function Selector
+        • Agrument Encoding
+        • Kiểu dữ liệu
+        • Function Selector
+        • Events
+        • JSON     
+
+    <> Part 7: Ethereum Request For Comment (ERC)
+        • Giới thiệu ERC
+        • Token ERC20
+        • Các chuẩn Token ERC phổ biến nhất
+        • Mua & lưu trữ ERC20 Token
+        • Deploy & Test ERC20 Token với RinkedBy Testnet
+
+    <> Part 8: Tự Xây Dựng & Vận Hành ICO Từ A-Z
+        • Giới thiệu ICO – Initial Coin Offering
+        • ICO Smart Contract
+        • ICO State Energency Stop & Restart
+        • Investment
+        • ICO Testing
+        • Token Locking
+
+    <> Part 9: Lập Trình FrontEnd
+        • Hướng dẫn lập trình giao diện người dùng tương tác Blockchain
+        • Nodejs / Express / MongoDB cơ bản
+        • Web3.JS Ethereum JS API
+
+    <> Part 10: Triển Khai ICO
+        • Tự xây dựng một chương trình ICO, phát hành Token để huy động vốn từ cộng đồng cả thế giới.
+        • Lập trình triển khai Token trên chuẩn ERC20
+        • Kinh nghiệm thực tế lên plan triển khai ICO một cách hiệu quả nhất.
+
+    <> Part 11: Dự án thực tế
