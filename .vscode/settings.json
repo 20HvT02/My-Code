@@ -4,6 +4,8 @@
         "cmath": "cpp",
         "*.tcc": "cpp",
         "string": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "editor.quickSuggestions.comments": "true"
     }
+    
 }

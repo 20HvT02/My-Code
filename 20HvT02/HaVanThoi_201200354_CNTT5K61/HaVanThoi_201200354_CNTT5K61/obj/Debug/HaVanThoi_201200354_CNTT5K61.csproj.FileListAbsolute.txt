@@ -1,0 +1,13 @@
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\obj\Debug\HaVanThoi_201200354_CNTT5K61.csproj.AssemblyReference.cache
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\obj\Debug\HaVanThoi_201200354_CNTT5K61.csproj.SuggestedBindingRedirects.cache
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\obj\Debug\HaVanThoi_201200354_CNTT5K61.Form1.resources
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\obj\Debug\HaVanThoi_201200354_CNTT5K61.Properties.Resources.resources
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\obj\Debug\HaVanThoi_201200354_CNTT5K61.csproj.GenerateResource.cache
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\obj\Debug\HaVanThoi_201200354_CNTT5K61.csproj.CoreCompileInputs.cache
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\bin\Debug\CongTy.mdf
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\bin\Debug\CongTy_log.ldf
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\bin\Debug\HaVanThoi_201200354_CNTT5K61.exe.config
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\bin\Debug\HaVanThoi_201200354_CNTT5K61.exe
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\bin\Debug\HaVanThoi_201200354_CNTT5K61.pdb
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\obj\Debug\HaVanThoi_201200354_CNTT5K61.exe
+E:\My-Code\Workspace\HaVanThoi_201200354_CNTT5K61\HaVanThoi_201200354_CNTT5K61\obj\Debug\HaVanThoi_201200354_CNTT5K61.pdb
